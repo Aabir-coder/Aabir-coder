@@ -35,8 +35,4 @@ Long term, I’m aiming for quantitative finance + AI—where decisions are back
 - ⚡ Opportunities that challenge me  
 
 ---
-
-### ⚡ Fun fact
-I don’t just want to write code—I want to build influence, ideas, and impact.
-
 📫 Reach me at: aabirdas292007@gmail.com
