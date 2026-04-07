@@ -24,7 +24,6 @@ Long term, I’m aiming for quantitative finance + AI—where decisions are back
 ### 🎭 Beyond coding
 - 🗣️ Model United Nations 
 - 🎬 Theatre & acting
-- 🕺 Dance 
 - 🎾 Tennis
 - ♟  Chess
 ---
